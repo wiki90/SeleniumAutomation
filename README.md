@@ -1,1 +1,1 @@
-# SeleniumAutomation
+This is simple selenium webdriver tutorial you can clone or download this project simple and easy to install.
