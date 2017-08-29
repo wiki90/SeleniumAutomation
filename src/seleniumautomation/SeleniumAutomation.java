@@ -27,7 +27,6 @@ public class SeleniumAutomation {
         
         
         String str= System.getProperty("user.dir");
-        System.out.println(str);
         System.setProperty("webdriver.chrome.driver", str.toString()+"\\Driver\\chromedriver.exe");        
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
